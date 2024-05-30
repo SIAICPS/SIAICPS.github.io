@@ -4,7 +4,7 @@ subtitle: 工业安全
 author: 网络
 keyword: 工业安全
 published: 2024-04-22
-topicImg: assets/3/img.png
+topicImg: assets/3/ASD6.png
 -->
 
 # 工业信息物理系统的网络安全

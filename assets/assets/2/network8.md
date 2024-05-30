@@ -7,7 +7,7 @@ published: 2024-05-20
 topicImg: assets/2/md8.jpg
 -->
 
-![](assets/2/md8.jpg)
+
 # 基于ICPS的工业网络的未来发展趋势
 
 

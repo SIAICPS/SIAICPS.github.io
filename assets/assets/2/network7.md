@@ -7,7 +7,6 @@ published: 2024-05-20
 topicImg: assets/2/md7.jpg
 -->
 
-![](assets/2/md7.jpg)
 # 深入解析ICPS的工业网络架构——安全保障层
 
 # __概述__

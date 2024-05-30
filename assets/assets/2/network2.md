@@ -7,7 +7,6 @@ published: 2024-04-27
 topicImg: assets/2/md2.jpg
 -->
 
-![](assets/2/md2.jpg)
 # ICPS的工业网络架构概述
 
 

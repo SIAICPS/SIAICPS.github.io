@@ -4,7 +4,7 @@ subtitle: 工业安全
 author: 周琨
 keyword: 工业安全
 published: 2024-04-29
-topicImg: assets/3/img_14.png
+topicImg: assets/3/ASD4.png
 -->
 
 # 基于SDN的工业物联网的中间人攻击

@@ -8,7 +8,7 @@ published: 2024-05-22
 topicImg: assets/5/md5.jpg
 -->
 
-![](assets/5/md5.jpg)
+
 # 远程监控与维护
 
 

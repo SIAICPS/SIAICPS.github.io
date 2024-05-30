@@ -8,7 +8,7 @@ published: 2024-05-22
 topicImg: assets/5/md4.jpg
 -->
 
-![](assets/5/md4.jpg)
+
 # 产品追溯与监控
 
 

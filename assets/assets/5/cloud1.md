@@ -8,7 +8,6 @@ published: 2024-05-21
 topicImg: assets/5/md1.jpg
 -->
 
-![](assets/5/md1.jpg)
 # 工业云和智能服务平台概述
 
 

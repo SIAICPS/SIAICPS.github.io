@@ -4,7 +4,7 @@ subtitle: 工业安全
 author: 王玉玲
 keyword: 工业安全
 published: 2024-04-31
-topicImg: assets/3/img_32.png
+topicImg: assets/3/ASD5.png
 -->
 
 # 面向工业系统的星闪无线网络

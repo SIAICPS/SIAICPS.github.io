@@ -7,7 +7,6 @@ published: 2024-05-22
 topicImg: assets/5/md7.jpg
 -->
 
-![](assets/5/md7.jpg)
 # 个性化定制服务
 
 

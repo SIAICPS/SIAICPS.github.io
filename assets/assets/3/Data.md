@@ -4,7 +4,7 @@ subtitle: 工业安全
 author: 邢晨
 keyword: 工业安全
 published: 2024-04-27
-topicImg: assets/3/img_18.png
+topicImg: assets/3/ASD2.png
 -->
 
 # 工业数据安全的挑战与应对策略

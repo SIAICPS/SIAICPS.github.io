@@ -7,7 +7,7 @@ published: 2024-05-22
 topicImg: assets/5/md8.jpg
 -->
 
-![](assets/5/md8.jpg)
+
 # 云端资源管理与调度
 
 

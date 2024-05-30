@@ -4,7 +4,7 @@ subtitle: 工业安全
 author: 仇光强
 keyword: 工业安全
 published: 2024-04-25
-topicImg: assets/3/img_19.png
+topicImg: assets/3/ASD8.png
 -->
 
 # 面向工业信息物理系统的安全通信机制

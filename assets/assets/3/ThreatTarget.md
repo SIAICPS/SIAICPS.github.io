@@ -4,7 +4,7 @@ subtitle: 工业安全
 author: 薛威峰
 keyword: 工业安全
 published: 2024-04-24
-topicImg: assets/3/img_10.png
+topicImg: assets/3/ASD10.png
 -->
 
 # 工业信息物理系统安全威胁及性能指标

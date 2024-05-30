@@ -8,7 +8,7 @@ published: 2024-05-22
 topicImg: assets/5/md3.jpg
 -->
 
-![](assets/5/md3.jpg)
+
 # 大数据分析
 
 

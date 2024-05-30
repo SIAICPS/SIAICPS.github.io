@@ -4,7 +4,7 @@ subtitle: 工业安全
 author: 刘邦 饶志波 姜双林
 keyword: 工业安全
 published: 2024-04-23
-topicImg: assets/3/img_4.png
+topicImg: assets/3/ASD7.png
 -->
 
 # 工业信息物理系统安全解决方案综述

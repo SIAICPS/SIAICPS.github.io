@@ -7,7 +7,7 @@ published: 2024-05-22
 topicImg: assets/5/md6.jpg
 -->
 
-![](assets/5/md6.jpg)
+
 # 智能决策支持
 
 

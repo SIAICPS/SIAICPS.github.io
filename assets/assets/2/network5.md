@@ -7,7 +7,7 @@ published: 2024-04-27
 topicImg: assets/2/md5.jpg
 -->
 
-![](assets/2/md5.jpg)
+
 # 深入解析ICPS的工业网络架构——数据处理层
 
 ## 1.概述

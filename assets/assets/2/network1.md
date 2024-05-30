@@ -8,7 +8,6 @@ published: 2024-04-27
 topicImg: assets/2/md1.jpg
 -->
 
-![](assets/2/md1.jpg)
 # 工业网络概述
 
 

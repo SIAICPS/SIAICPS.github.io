@@ -8,7 +8,7 @@ published: 2024-05-22
 topicImg: assets/5/md2.jpg
 -->
 
-![](assets/5/md2.jpg)
+
 # 数据共享与集成
 
 

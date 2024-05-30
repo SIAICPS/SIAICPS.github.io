@@ -4,7 +4,7 @@ subtitle: 工业安全
 author: 鞠拓 陈智迪 王文琦
 keyword: 工业安全
 published: 2024-04-30
-topicImg: assets/3/img_5.png
+topicImg: assets/3/ASD3.png
 -->
 
 # 工业信息物理系统的安全稳定性设计与应用研究
