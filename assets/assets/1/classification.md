@@ -3,7 +3,7 @@ title: 工业软件分类
 subtitle: 工业软件
 author: 网络
 keyword: 工业软件
-published: 2024-04-22
+published: 2024-04-25
 topicImg: assets/1/classification1.png
 -->
 
